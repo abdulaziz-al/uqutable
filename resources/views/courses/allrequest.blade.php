@@ -19,7 +19,7 @@
                                            <div class="alert ">
                                                <button type="button" class="close" data-dismiss="alert" ></button>
                                                <script>
-                                                window.alert("تم حفظ الملاحظة")
+                                                window.alert(" تم حفظ الملاحظة و سوف يتم ارسالها ")
                                                 
                                                  </script>
                                        </div>
