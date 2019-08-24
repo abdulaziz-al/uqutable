@@ -19,9 +19,9 @@
 
 
 @if(count($courses) > 0)
-
+<div>
 {{$courses->links()}}
-
+</div>
 <ul class="responsive-table">
     <li class="table-header">
   
