@@ -16,10 +16,10 @@
                                        
                                        
                                        @if (session('msgN'))
-                                           <div class="alert ">
+                                           <div class="alert-success ">
                                                <button type="button" class="close" data-dismiss="alert" ></button>
                                                <script>
-                                                window.alert(" تم حفظ الملاحظة و سوف يتم ارسالها ")
+                                                window.alert(" تم حفظ الملاحظة  ")
                                                 
                                                  </script>
                                        </div>
